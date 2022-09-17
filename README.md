@@ -4,9 +4,9 @@
 <p align="center">
    Hi, I'm Matthew. I'm a Senior Data Science Mentor, RPA Developer, and a Body Builder.</br></br>
    💻 I enjoy analyzing data to gather meaningful insights, solving real world problems, and automating boring business tasks. 📉 </br></br>
-   ✅ I enjoy working with teams to meet goals and deadlines 👍</br></br>
+   ✅ I enjoy working with teams to meet goals and deadlines. 👍</br></br>
    📝 I find joy and helping others learn new skills and offering my support where ever is needed. 🤓 </br></br>
-   🏋️‍♂️ I am an advocate for physical, and mental health 💪</br>
+   🏋️‍♂️ I am an advocate for physical, and mental health. 💪</br>
 </p>
 
 
