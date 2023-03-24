@@ -67,6 +67,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>  
 </p>
 
+<br>
 
 <p>
 <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeeDino11&show_icons=true&locale=en&layout=compact" alt="matthew_gerardino" />
