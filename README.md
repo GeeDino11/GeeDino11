@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there!</h1>
 <p align="center">
    Hi, I'm Matthew. I'm a Senior Data Science Mentor, RPA Developer, Data Extraction Expert, and a Body Builder.</br></br>
@@ -26,7 +24,6 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/></a> 
 
@@ -68,11 +65,12 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>  
-
-
 </p>
 
-<p><img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeeDino11&show_icons=true&locale=en&layout=compact" alt="matthew_gerardino" /></p>
+
+<p>
+<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeeDino11&show_icons=true&locale=en&layout=compact" alt="matthew_gerardino" />
 
 <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeeDino11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" alt="matthew_gerardino" height=180px/>
+</p>
 
