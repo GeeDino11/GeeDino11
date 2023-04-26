@@ -11,8 +11,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/matthew-gerardino/" target="_blank">
-<img src="images/linkedIn_logo.svg" alt="matthewgerardino" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/matthew-gerardino/" >
+<img src="images/linkedIn_logo.svg" alt="matthewgerardino" height="30" width="80" target="_blank"/></a>
 <a href="https://instagram.com/matt_gerardino" target="_blank">
 <img src="images/instagram_logo.svg" alt="matt_gerardino" height="30" width="30" /></a>
 <a href="https://pypi.org/project/DS-Students/" target="_blank">
