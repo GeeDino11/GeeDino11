@@ -1,9 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Matthew+Gerardino....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Matthew+Gerardino...;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1>
-<p align="center">
+
+<p>
    Hi, I'm Matthew. I'm a Senior Data Science Mentor, RPA Developer, Data Extraction Expert, and a Body Builder.</br></br>
    💻 I enjoy analyzing data to gather meaningful insights, solving real world problems, and automating boring business tasks. 📉 </br></br>
    ✅ I enjoy working with teams to meet goals and deadlines. 👍</br></br>
