@@ -43,7 +43,7 @@
  <img src="images/tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
  
 <a href="https://www.tableau.com/" target="_blank" rel="tableau"> 
-<img src="images/tableau_logo.svg" alt="tableau" width="60" height="30"/> </a> <br>
+<img src="images/tableau_logo.svg" alt="tableau" width="60" height="40"/> </a> <br>
 
 <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> 
 <img src="images/scrapy_logo.jpg" alt="scrapy" width="60" height="30"/></a>
