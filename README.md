@@ -16,7 +16,7 @@
 <a href="https://instagram.com/matt_gerardino" target="_blank">
 <img src="images/instagram_logo.svg" alt="matt_gerardino" height="30" width="30" /></a>
 <a href="https://pypi.org/project/DS-Students/" target="_blank">
-<img src="images/pypi_logo.svg" alt="DS-Students" height="30" width="40" /></a>
+<img src="images/pypi_logo.svg" alt="DS-Students" height="30" width="50" /></a>
 </p>
 
 </br>
