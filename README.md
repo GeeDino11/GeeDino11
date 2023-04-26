@@ -7,6 +7,8 @@
    🏋️‍♂️ I am an advocate for physical, and mental health. 💪
 </p>
 
+<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/matthew-gerardino/" target="_blank">
@@ -16,6 +18,8 @@
 <a href="https://pypi.org/project/DS-Students/" target="_blank">
 <img src="images/pypi_logo.svg" alt="DS-Students" height="30" width="50" /></a>
 </p>
+
+</br>
 
 <h3 align="center">Languages and Tools:</h3>
 
