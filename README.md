@@ -70,7 +70,7 @@
 <br><br>
 
 <p>
-<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeeDino11&show_icons=true&locale=en&layout=compact" alt="matthew_gerardino" />
+<img  align="left" height=180px src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeeDino11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" alt="matthew_gerardino" />
 
-<img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeeDino11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" alt="matthew_gerardino" height=180px/>
+<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeeDino11&show_icons=true&locale=en&layout=compact" alt="matthew_gerardino" />
 </p>
