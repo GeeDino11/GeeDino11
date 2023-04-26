@@ -1,5 +1,5 @@
-<center><h1>Hi there!</h1>
-<p>
+<h1 align="center">Hi there!</h1>
+<p align="center">
    Hi, I'm Matthew. I'm a Senior Data Science Mentor, RPA Developer, Data Extraction Expert, and a Body Builder.</br></br>
    💻 I enjoy analyzing data to gather meaningful insights, solving real world problems, and automating boring business tasks. 📉 </br></br>
    ✅ I enjoy working with teams to meet goals and deadlines. 👍</br></br>
@@ -9,8 +9,8 @@
 
 <br>
 
-<h3>Connect with me:</h3>
-<p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/matthew-gerardino/" target="_blank">
 <img src="images/linkedIn_logo.svg" alt="matthewgerardino" height="30" width="70" /></a>
 <a href="https://instagram.com/matt_gerardino" target="_blank">
@@ -21,9 +21,9 @@
 
 </br>
 
-<h3>Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<p> 
+<div align="center"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
 <img src="images/python_logo.svg" alt="python" width="40" height="40"/></a>
 
@@ -65,7 +65,7 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="images/MySQL_logo.svg" alt="mysql" width="60" height="30"/></a>  
-</p>
+</div>
 
 <br><br>
 
@@ -74,4 +74,3 @@
 
 <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeeDino11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" alt="matthew_gerardino" height=180px/>
 </p>
-</center>
