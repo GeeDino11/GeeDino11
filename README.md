@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p>
+<p align="center">
    Hi, I'm Matthew. I'm a Senior Data Science Mentor, RPA Developer, Data Extraction Expert, and a Body Builder.</br></br>
    💻 I enjoy analyzing data to gather meaningful insights, solving real world problems, and automating boring business tasks. 📉 </br></br>
    ✅ I enjoy working with teams to meet goals and deadlines. 👍</br></br>
