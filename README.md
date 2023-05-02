@@ -69,7 +69,22 @@
 <img src="images/MongoDB_logo.svg" alt="mongodb" width="60" height="30"/></a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="images/MySQL_logo.svg" alt="mysql" width="60" height="30"/></a>  
+<img src="images/MySQL_logo.svg" alt="mysql" width="60" height="30"/></a>
+
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
+<img src="images/HTML5_logoe.svg" alt="html5" width="60" height="30"/></a>
+
+<a href="https://www.css3.com/" target="_blank" rel="noreferrer"> 
+<img src="images/CSS3_logo.svg" alt="css3" width="40" height="40"/></a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+<img src="images/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
+
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+<img src="images/JavaScript_logo.svg" alt="javascript" width="40" height="40"/></a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+<img src="images/Postman.png" alt="postman" width="80" height="30"/></a> 
 </div>
 
 <br><br>
