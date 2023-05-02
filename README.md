@@ -34,12 +34,9 @@
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 <img src="images/amazon_web_services_logo.svg" alt="aws" width="40" height="40"/></a>
- 
-<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> 
-<img src="images/UiPath_logo.png" alt="UiPath" width="60" height="30"/> </a>
 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-<img src="images/R_logo.png" alt="R Programming" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+<img src="images/JavaScript_logo.svg" alt="javascript" width="40" height="40"/></a>
 
  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> 
  <img src="images/scikit_learn_logo.svg" alt="Sklearn" width="40" height="40"/></a>
@@ -49,6 +46,21 @@
  
 <a href="https://www.tableau.com/" target="_blank" rel="tableau"> 
 <img src="images/tableau_logo.svg" alt="tableau" width="70" height="50"/> </a> <br>
+
+<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> 
+<img src="images/UiPath_logo.png" alt="UiPath" width="60" height="30"/> </a>
+
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+<img src="images/R_logo.png" alt="R Programming" width="40" height="40"/></a>
+
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
+<img src="images/HTML5_logoe.svg" alt="html5" width="60" height="30"/></a>
+
+<a href="https://www.css3.com/" target="_blank" rel="noreferrer"> 
+<img src="images/CSS3_logo.svg" alt="css3" width="40" height="40"/></a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+<img src="images/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
 
 <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> 
 <img src="images/scrapy_logo.jpg" alt="scrapy" width="60" height="30"/></a>
@@ -70,18 +82,6 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="images/MySQL_logo.svg" alt="mysql" width="60" height="30"/></a>
-
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
-<img src="images/HTML5_logoe.svg" alt="html5" width="60" height="30"/></a>
-
-<a href="https://www.css3.com/" target="_blank" rel="noreferrer"> 
-<img src="images/CSS3_logo.svg" alt="css3" width="40" height="40"/></a>
-
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-<img src="images/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
-
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-<img src="images/JavaScript_logo.svg" alt="javascript" width="40" height="40"/></a>
 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
 <img src="images/Postman.png" alt="postman" width="80" height="30"/></a> 
