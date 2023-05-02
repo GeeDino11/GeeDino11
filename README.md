@@ -51,7 +51,7 @@
 <img src="images/CSS3_logo.svg" alt="css3" width="40" height="40"/></a>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-<img src="images/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
+<img src="images/Bootstrap_logo.svg" alt="bootstrap" width="35" height="30"/></a>
  
 <a href="https://www.tableau.com/" target="_blank" rel="tableau"> 
 <img src="images/tableau_logo.svg" alt="tableau" width="70" height="50"/> </a> <br>
