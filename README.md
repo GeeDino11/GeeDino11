@@ -42,7 +42,16 @@
  <img src="images/scikit_learn_logo.svg" alt="Sklearn" width="40" height="40"/></a>
 
  <a href="https://www.tensorflow.org/?gclid=Cj0KCQjwvZCZBhCiARIsAPXbajs3Wx52UMdMB_vplFkw4p_9IqQ0OlW1vgMA3stibWrxrnzhr7biAUMaAp03EALw_wcB" target="_blank" rel="noreferrer"> 
- <img src="images/tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
+ <img src="images/tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
+
+ <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
+<img src="images/HTML5_logoe.svg" alt="html5" width="60" height="30"/></a>
+
+<a href="https://www.css3.com/" target="_blank" rel="noreferrer"> 
+<img src="images/CSS3_logo.svg" alt="css3" width="40" height="40"/></a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+<img src="images/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
  
 <a href="https://www.tableau.com/" target="_blank" rel="tableau"> 
 <img src="images/tableau_logo.svg" alt="tableau" width="70" height="50"/> </a> <br>
@@ -52,15 +61,6 @@
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
 <img src="images/R_logo.png" alt="R Programming" width="40" height="40"/></a>
-
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
-<img src="images/HTML5_logoe.svg" alt="html5" width="60" height="30"/></a>
-
-<a href="https://www.css3.com/" target="_blank" rel="noreferrer"> 
-<img src="images/CSS3_logo.svg" alt="css3" width="40" height="40"/></a>
-
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-<img src="images/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
 
 <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> 
 <img src="images/scrapy_logo.jpg" alt="scrapy" width="60" height="30"/></a>
