@@ -54,7 +54,7 @@
 <img src="images/Bootstrap_logo.svg" alt="bootstrap" width="40" height="35"/></a>
  
 <a href="https://www.tableau.com/" target="_blank" rel="tableau"> 
-<img src="images/tableau_logo.svg" alt="tableau" width="70" height="50"/> </a> <br>
+<img src="images/tableau_logo.svg" alt="tableau" width="70" height="40"/> </a> <br>
 
 <a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> 
 <img src="images/UiPath_logo.png" alt="UiPath" width="60" height="30"/> </a>
