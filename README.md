@@ -90,7 +90,7 @@
 <br><br>
 
 <p>
-<img  align="center" height="180px" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeeDino11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" alt="matthew_gerardino" />
+<img  align="center" height="180px" width="350px" src="https://github-readme-stats.vercel.app/api?username=GeeDino11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" alt="matthew_gerardino" />
 
 <img align="right" height="180px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeeDino11&show_icons=true&hide_border=true&locale=en&layout=compact" alt="matthew_gerardino" />
 </p>
